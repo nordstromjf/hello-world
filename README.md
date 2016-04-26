@@ -1,2 +1,2 @@
 # hello-world
-A new repository.
+I am a mathematics professor at Linfield College in McMinnville, OR.
